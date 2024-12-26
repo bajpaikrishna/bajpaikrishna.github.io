@@ -39,6 +39,22 @@ const work = [
     ],
   },
   {
+    name: 'Freelancer',
+    position: 'Head of Networking and Engineering',
+    url: '#',
+    startDate: '2020-01-01',
+    summary: '',
+    highlights: [
+      'Optimized network architectures to enhance performance, scalability, and reliability across multiple platforms.',
+      'Developed and implemented advanced network security protocols to protect against emerging threats and ensure data integrity.',
+      'Designed and deployed high-performance networking solutions for cloud-based and on-premises infrastructures.',
+      'Streamlined troubleshooting and monitoring processes by integrating innovative tools, reducing downtime by 35%.',
+      'Collaborated with cross-functional teams to integrate networking solutions with machine learning applications and automation systems.',
+      'Led the migration of legacy network systems to modern, software-defined networking (SDN) environments, improving operational efficiency.',
+      'Delivered hands-on training to engineering teams on cutting-edge networking technologies and best practices.'
+    ],
+  },
+  {
     name: 'Stock Market Research Analyst',
     position: '',
     url: '',

@@ -60,6 +60,146 @@ const skills = [
     category: ['ML Engineering'],
   },
   {
+    title: 'LAN/WAN Design',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Routers and Switches',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Firewalls',
+    competency: 4,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Access Points',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Load Balancers',
+    competency: 4,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Network Interface Cards',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'NFV (Network Functions Virtualization)',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Amazon Web Services',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Azure',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Kubernetes',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Docker',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Hybrid Network Architecture',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Cisco ACI',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'VMware NSX',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'OpenFlow',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Juniper Contrail',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Ansible',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Puppet and Chef',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Cisco DNA Center',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'SaltStack',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'VMware vSphere',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Nexus 9000 Series',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Microsoft Hyper-VS',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Cloudflare',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Akamai',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Amazon CloudFront',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Palo Alto Netwokrs',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
+    title: 'Fortinet',
+    competency: 5,
+    category: ['Networking Engineering'],
+  },
+  {
     title: 'Express.JS',
     competency: 2,
     category: ['Web Development', 'Javascript'],
