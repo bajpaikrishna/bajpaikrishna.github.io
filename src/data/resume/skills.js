@@ -381,6 +381,7 @@ const colors = [
   '#747fff',
   '#f7a400',
   '#64cb7b',
+  '#64cb8b',
 ];
 
 const categories = [...new Set(skills.flatMap(({ category }) => category))]
@@ -389,5 +390,8 @@ const categories = [...new Set(skills.flatMap(({ category }) => category))]
     name: category,
     color: colors[index],
   }));
+  console.log('Skills:', skills);
+  console.log('Categories:', categories);
+  
 
 export { categories, skills };
