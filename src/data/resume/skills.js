@@ -390,8 +390,5 @@ const categories = [...new Set(skills.flatMap(({ category }) => category))]
     name: category,
     color: colors[index],
   }));
-  console.log('Skills:', skills);
-  console.log('Categories:', categories);
-  
 
 export { categories, skills };
