@@ -51,7 +51,7 @@ const work = [
       'Streamlined troubleshooting and monitoring processes by integrating innovative tools, reducing downtime by 35%.',
       'Collaborated with cross-functional teams to integrate networking solutions with machine learning applications and automation systems.',
       'Led the migration of legacy network systems to modern, software-defined networking (SDN) environments, improving operational efficiency.',
-      'Delivered hands-on training to engineering teams on cutting-edge networking technologies and best practices.'
+      'Delivered hands-on training to engineering teams on cutting-edge networking technologies and best practices.',
     ],
   },
   {
