@@ -20,6 +20,21 @@ const skills = [
     category: ['Web Development', 'Javascript'],
   },
   {
+    title: 'Vulkan',
+    competency: 4,
+    category: ['Artificial Intelligence'],
+  },
+  {
+    title: 'OpenGL',
+    competency: 4,
+    category: ['Artificial Intelligence'],
+  },
+  {
+    title: 'DirectX12',
+    competency: 4,
+    category: ['Artificial Intelligence'],
+  },
+  {
     title: 'Bash',
     competency: 2,
     category: ['Tools', 'Languages'],
